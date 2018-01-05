@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Todo component renders the todo correctly renders correctly 1`] = `
+<div
+  className="card show"
+  style={
+    Object {
+      "width": "20rem",
+    }
+  }
+>
+  <img
+    alt="Life is a Test"
+    className="card-img-top"
+    height="160"
+    src="http://xiostorage.com/wp-content/uploads/2015/10/test.png"
+    width="320"
+  />
+  <div
+    className="card-body"
+  >
+    <h4
+      className="card-title"
+    >
+      Life is a Test
+    </h4>
+    <p
+      className="card-text"
+    >
+      Viernes, 1 de enero de 1979
+       
+      <br />
+      Teatro de Test
+    </p>
+    <a
+      className="btn btn-primary"
+      href="#"
+    >
+      Comprar
+    </a>
+  </div>
+</div>
+`;
